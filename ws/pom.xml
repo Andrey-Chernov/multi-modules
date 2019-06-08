@@ -22,11 +22,6 @@
       <groupId>ru.ach.multimodules</groupId>
       <artifactId>ws-part</artifactId>
     </dependency>
-
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-    </dependency>
   </dependencies>
 
   <build>
